@@ -1,5 +1,5 @@
 { 
-	"title": "Hey",
-	"message": "What's up",
-	"level": "error"
+	"title": "Hello",
+	"message": "How are you?",
+	"level": "info"
 }
