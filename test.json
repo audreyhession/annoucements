@@ -1,6 +1,6 @@
 {
-    "title": "Announcement title12345678",
-    "message": "Announcement content12345678",
-    "level": "info",
+    "title": "title12345678",
+    "message": "content12345678",
+    "level": "error",
     "expiration": "2018-01-20"
 }
